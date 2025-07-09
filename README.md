@@ -1,4 +1,3 @@
-![readme](https://github.com/user-attachments/assets/da9d19a8-4bd6-4276-9b72-30d422a38c9a)# Non-Linear Data Structures 
 
 ## Getting Started
 
