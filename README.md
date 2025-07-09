@@ -148,6 +148,7 @@ Si se usara un `HashMap` en lugar de `TreeMap`, entonces `hashCode()` y `equals(
 
 ![Captura de pantalla 2025-07-08 085438](https://github.com/user-attachments/assets/dffbb7cd-7b2f-4589-924b-744ad848014c)
 ![Captura de pantalla 2025-07-08 085451](https://github.com/user-attachments/assets/afe6e035-1a4b-4e8e-b4e2-1a493932f333)
+![readme](https://github.com/user-attachments/assets/ee8983b8-db4e-43b2-a717-0720d5a99424)
 
 
 
